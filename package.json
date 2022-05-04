@@ -1,0 +1,17 @@
+{
+  "name": "near-marketplace-contract",
+  "version": "1.0.0",
+  "description": "First steps",
+  "main": "index.js",
+  "author": "Halilu Remawa",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "dependencies": {
+    "asbuild": "^0.2.0",
+    "assemblyscript": "^0.20.4",
+    "global": "^4.4.0",
+    "near-cli": "^3.2.0"
+  }
+}
